@@ -1,0 +1,18 @@
+C:\Users\Marina\Desktop\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\Home\Desktop\Compiler (8)\Compiler\Compiler\bin\Debug\Compiler.exe
+D:\Uni\Junior\Spring 2020\Design of Compilers\Compilerarabna\Compiler'sScanner\Compiler\bin\Debug\Compiler.exe.config
+D:\Uni\Junior\Spring 2020\Design of Compilers\Compilerarabna\Compiler'sScanner\Compiler\bin\Debug\Compiler.exe
+D:\Uni\Junior\Spring 2020\Design of Compilers\Compilerarabna\Compiler'sScanner\Compiler\bin\Debug\Compiler.pdb
+D:\Uni\Junior\Spring 2020\Design of Compilers\Compilerarabna\Compiler'sScanner\Compiler\obj\Debug\Compiler.csprojAssemblyReference.cache
+D:\Uni\Junior\Spring 2020\Design of Compilers\Compilerarabna\Compiler'sScanner\Compiler\obj\Debug\Compiler.Form1.resources
+D:\Uni\Junior\Spring 2020\Design of Compilers\Compilerarabna\Compiler'sScanner\Compiler\obj\Debug\Compiler.Form2.resources
+D:\Uni\Junior\Spring 2020\Design of Compilers\Compilerarabna\Compiler'sScanner\Compiler\obj\Debug\Compiler.Form3.resources
+D:\Uni\Junior\Spring 2020\Design of Compilers\Compilerarabna\Compiler'sScanner\Compiler\obj\Debug\Compiler.Properties.Resources.resources
+D:\Uni\Junior\Spring 2020\Design of Compilers\Compilerarabna\Compiler'sScanner\Compiler\obj\Debug\Compiler.csproj.GenerateResource.cache
+D:\Uni\Junior\Spring 2020\Design of Compilers\Compilerarabna\Compiler'sScanner\Compiler\obj\Debug\Compiler.csproj.CoreCompileInputs.cache
+D:\Uni\Junior\Spring 2020\Design of Compilers\Compilerarabna\Compiler'sScanner\Compiler\obj\Debug\Compiler.exe
+D:\Uni\Junior\Spring 2020\Design of Compilers\Compilerarabna\Compiler'sScanner\Compiler\obj\Debug\Compiler.pdb
+D:\Uni\Junior\Spring 2020\Design of Compilers\Compilerarabna\Compiler'sScanner\Compiler\bin\Debug\Compiler.exe.manifest
+D:\Uni\Junior\Spring 2020\Design of Compilers\Compilerarabna\Compiler'sScanner\Compiler\bin\Debug\Compiler.application
+D:\Uni\Junior\Spring 2020\Design of Compilers\Compilerarabna\Compiler'sScanner\Compiler\obj\Debug\Compiler.exe.manifest
+D:\Uni\Junior\Spring 2020\Design of Compilers\Compilerarabna\Compiler'sScanner\Compiler\obj\Debug\Compiler.application
